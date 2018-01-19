@@ -1,0 +1,9 @@
+{
+	"files": {
+		"index.js": "58bc301d8b09151f02aafeff4c5b2bc32284a3593c5229cac9138e9810f148b5",
+		"module.json": "785f793d5f0d127e62e65d34f9f6e564df8019be3893fd16ee4f13933a126615"
+	},
+    "defs": {
+        "S_UNICAST_TRANSFORM_DATA": 1
+    }
+}
