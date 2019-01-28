@@ -1,7 +1,3 @@
-// kynoxis made no-marrow, but it didn't actually work LOL
-// teralove made replace-marrow-effect, but that didn't work etiher LOL
-// Working version made by TerableCoder
-
 module.exports = function NoMarrow(dispatch) {
 	dispatch.hook('S_UNICAST_TRANSFORM_DATA', 5, (event) => {
 		return !event.isExpandTransform;
