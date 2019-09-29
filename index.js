@@ -1,5 +1,5 @@
 module.exports = function NoMarrow(dispatch) {
-	dispatch.hook('S_UNICAST_TRANSFORM_DATA', 5, (event) => {
+	dispatch.hook('S_UNICAST_TRANSFORM_DATA', 6, (event) => {
 		return !event.isExpandTransform;
 	});
 	// isExpandTransform is the dragon costume
