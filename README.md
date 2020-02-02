@@ -1,2 +1,4 @@
-# no-marrow
-A module for tera-proxy that removes the costume change effect from the marrow brooch buff.
+# TerableMarrow
+No Marrow Brooch costume nor black/gold glow
+
+Made by TerableCoder

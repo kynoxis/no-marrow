@@ -1,3 +1,9 @@
 {
-    "servers": ["https://raw.githubusercontent.com/kynoxis/no-marrow/master/"]
+    "disableAutoUpdate": false,
+    "name": "TerableMarrow",
+    "author": " Terablecoder",
+    "homepage": "https://github.com/TerableCoder/TerableMarrow",
+    "description": "No Marrow Brooch costume nor black/gold glow",
+    "version": "1",
+    "servers": ["https://raw.githubusercontent.com/TerableCoder/TerableMarrow/master/"]
 }
